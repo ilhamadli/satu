@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/satu/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/satu/static/js/main.8104a126.chunk.js",
+    "main.js.map": "/satu/static/js/main.8104a126.chunk.js.map",
+    "runtime-main.js": "/satu/static/js/runtime-main.d2c4fbfa.js",
+    "runtime-main.js.map": "/satu/static/js/runtime-main.d2c4fbfa.js.map",
+    "static/js/2.e13042c6.chunk.js": "/satu/static/js/2.e13042c6.chunk.js",
+    "static/js/2.e13042c6.chunk.js.map": "/satu/static/js/2.e13042c6.chunk.js.map",
+    "static/js/3.1fc47bb2.chunk.js": "/satu/static/js/3.1fc47bb2.chunk.js",
+    "static/js/3.1fc47bb2.chunk.js.map": "/satu/static/js/3.1fc47bb2.chunk.js.map",
+    "index.html": "/satu/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/satu/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e13042c6.chunk.js.LICENSE.txt": "/satu/static/js/2.e13042c6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/satu/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2c4fbfa.js",
+    "static/js/2.e13042c6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8104a126.chunk.js"
+  ]
+}
